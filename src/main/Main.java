@@ -14,7 +14,7 @@ public class Main {
 		JFrame window = new JFrame(); // Create new window
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Close program when "x" is clicked
 		window.setResizable(false); // user cannot change size with drag
-		window.setTitle("Where's Rakan sub1"); // game title
+		window.setTitle("Rakan's Feather"); // game title
 		
 		GamePanel gp = new GamePanel(); // Create new "gamepanel" object
 		window.add(gp);
