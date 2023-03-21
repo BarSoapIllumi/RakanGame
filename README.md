@@ -2,6 +2,8 @@
 
 This is a game I first started creating in grade 10 for my final assignment in Gr.11 CS class. It is somewhat of a tribute to Arcane with some character and object resemblences. BUT, you will also see that there are elements of League - hence the name, Rakan's Feather. I am a huge League enjoyer so if you would like to join me in League sometimes, add BarSoapIllumi! 
 
+All of the game elements were created by either me or a friend (Yuki), so no copyright there! I even played the background music LOL
+
 Yes, the game is in a JAR file in the repo so you can play it if you download it. No, I swear I did not put a virus in there, but take caution I guess.
 
 ## Controls
