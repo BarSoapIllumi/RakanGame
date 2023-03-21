@@ -39,9 +39,9 @@ Now this would be a rare occurance, but HEY! I LOVE TALKING TO NEW PEOPLE!
 
 I don't know what would be a preferance for you, but here's some of my socials:
 
-Email: angela.zhou12345@gmail.com
-Insta: BarSoapIllumi
-Discord: Ananas#1748
-LinkedIn: not tryna post the link here, but just know it exists
+- Email: angela.zhou12345@gmail.com
+- Insta: BarSoapIllumi
+- Discord: Ananas#1748
+- LinkedIn: not tryna post the link here, but just know it exists
 
 Please DO contact me, I love meeting new people :) Also if you have any opinions or suggestions for the game, DO shoot me a message. I'd appreciate it a ton!
