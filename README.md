@@ -34,16 +34,3 @@ Credits are in the game! Or if you don't have it, just go into the UI class in m
 However, I would like to give a shoutout here for my friend Yuki, who is the main character of the game, and dressed up in a clown costume! Also huge shoutout to RyiSnow, since I followed his tutorial that was IMMENSELY helpful for a beginner like me! This game would not have been possible without the 2 of them. I could also never forget all of my other friends who supported my small game updates on Instagram and gave me a lot of motivation to keep going. 
 
 Love y'alls <3
-
-## What? You want to talk to me?
-
-Now this would be a rare occurance, but HEY! I LOVE TALKING TO NEW PEOPLE!
-
-I don't know what would be a preferance for you, but here's some of my socials:
-
-- Email: angela.zhou12345@gmail.com
-- Insta: BarSoapIllumi
-- Discord: Ananas#1748
-- LinkedIn: https://www.linkedin.com/in/angela-zhou12345/
-
-Please DO contact me, I love meeting new people :) Also if you have any opinions or suggestions for the game, DO shoot me a message. I'd appreciate it a ton!
